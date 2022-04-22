@@ -1,4 +1,4 @@
-# Data Analysis - Exploring Data
+# Data Analysis 2 - Exploring Data
 
 ## Part 1. (5 Points)
 A paint manufacturing company claims the following in one of its advertisements.
